@@ -41,7 +41,7 @@
 
 <div align="center">
   
-![jaeho13's github stats](https://github-readme-stats.vercel.app/api?username=jaeho13)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
+![OhHyukJun's github stats](https://github-readme-stats.vercel.app/api?username=OhHyukJun)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyukJun&layout=compact)
   
 </div>
