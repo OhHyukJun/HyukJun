@@ -9,11 +9,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/C-F5F5DC?style=fot-the-badge&logo=C&logoColor=A8B9CC">
-<img src="https://img.shields.io/badge/CSharp-F5F5DC?style=fot-the-badge&logo=C Sharp&logoColor=239120">
-
-<br>
-
 <img src="https://img.shields.io/badge/React-CCCCFF?style=fot-the-badge&logo=React&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Node.js-CCCCFF?style=fot-the-badge&logo=Node.js&logoColor=339933">
 <img src="https://img.shields.io/badge/MongoDB-CCCCFF?style=fot-the-badge&logo=MongoDB&logoColor=47A248">
