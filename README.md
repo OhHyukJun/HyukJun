@@ -42,6 +42,5 @@
 <div align="center">
   
 ![OhHyukJun's github stats](https://github-readme-stats.vercel.app/api?username=OhHyukJun)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyukJun&layout=compact)
   
 </div>
