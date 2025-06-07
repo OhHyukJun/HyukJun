@@ -15,8 +15,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Netlify-E0FFFF?style=fot-the-badge&logo=Netlify&logoColor=#00C7B7">
-<img src="https://img.shields.io/badge/Amazon EC2-E0FFFF?style=fot-the-badge&logo=Amazon EC2&logoColor=FF9900">
 <img src="https://img.shields.io/badge/Linux-E0FFFF?style=fot-the-badge&logo=Linux&logoColor=FCC624">
 
 <!-- <br>
